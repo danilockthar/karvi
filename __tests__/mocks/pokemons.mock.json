@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+        "name": "bulbasaur",
+        "id": 1,
+        "types": ["grass", "poison"],
+        "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+        "name": "ivysaur",
+        "id": 2,
+        "types": ["grass", "poison"],
+        "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+        "name": "venusaur",
+        "id": 3,
+        "types": ["grass", "poison"],
+        "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+        "name": "charmander",
+        "id": 4,
+        "types": ["fire"],
+        "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+        "name": "charmeleon",
+        "id": 5,
+        "types": ["fire"],
+        "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        },
+        {
+        "name": "charizard",
+        "id": 6,
+        "types": ["fire", "flying"],
+        "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+        },
+        {
+        "name": "squirtle",
+        "id": 7,
+        "types": ["water"],
+        "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+        },
+        {
+        "name": "wartortle",
+        "id": 8,
+        "types": ["water"],
+        "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
+        },
+        {
+        "name": "blastoise",
+        "id": 9,
+        "types": ["water"],
+        "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+        }
+        ]
+}
